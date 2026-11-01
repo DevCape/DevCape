@@ -33,7 +33,6 @@
 
 <p align="center">
   <i>"With great code comes great responsibility."</i><br/>
-  <sub>Built <b>PulseWatch</b> (uptime SaaS) — a product that runs while I sleep.</sub>
 </p>
 
 <!-- ============================================================
