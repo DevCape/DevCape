@@ -130,7 +130,6 @@
       <h3>Hyperbolic Room</h3>
       <p>A calisthenics skills training repo for self-taught athletes who wants to build their knowledge using evidence-based information.</p>
       <p>
-        <a href="https://github.com/DevCape/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=EAF2FF&labelColor=081426" alt="GitHub"></a>
       </p>
     </td>
   </tr>
@@ -138,7 +137,7 @@
 
 <!-- ============================================================
      SECTION 09 — WEB MISSIONS (project cards)
-     ============================================================ -->
+     ============================================================ 
 <p align="center">
   <img src="assets/web-divider.svg" alt="" width="100%">
 </p>
@@ -153,11 +152,10 @@
       <h3>Hyperbolic Room</h3>
       <p>A calisthenics skills training repo for self-taught athletes who wants to build their knowledge using evidence-based information.</p>
       <p>
-        <a href="https://github.com/DevCape/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=EAF2FF&labelColor=081426" alt="GitHub"></a>
       </p>
     </td>
   </tr>
-</table>
+</table> -->
 
 <!-- ============================================================
      SECTION 10 — HERO ACHIEVEMENTS
