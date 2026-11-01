@@ -209,10 +209,6 @@
 
 <p align="center"><i>Open to collaborations, freelance work, and building things that make the neighborhood better.</i></p>
 
-<p align="center">
-  <i>Open to collaborations, consultations, and friendly neighborhood developer meetups.</i>
-</p>
-
 <!-- ============================================================
      SECTION 13 — FOOTER
      ============================================================ -->
