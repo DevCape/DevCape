@@ -124,7 +124,17 @@
   <img src="https://img.shields.io/badge/%F0%9F%8E%AF+CURRENT+MISSION-E62429?style=for-the-badge&labelColor=081426&color=FF3340" alt="Current Mission">
 </p>
 
-<p align="center"><i>No flagship project yet — add one in the generator.</i></p>
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>Hyperbolic Room</h3>
+      <p>A calisthenics skills training repo for self-taught athletes who wants to build their knowledge using evidence-based information.</p>
+      <p>
+        <a href="https://github.com/DevCape/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=EAF2FF&labelColor=081426" alt="GitHub"></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!-- ============================================================
      SECTION 09 — WEB MISSIONS (project cards)
@@ -137,7 +147,17 @@
   <img src="https://img.shields.io/badge/%F0%9F%8E%AF+WEB+MISSIONS-1976D2?style=for-the-badge&labelColor=081426" alt="Web Missions">
 </p>
 
-<p align="center"><i>No missions yet — add projects in the generator.</i></p>
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>Hyperbolic Room</h3>
+      <p>A calisthenics skills training repo for self-taught athletes who wants to build their knowledge using evidence-based information.</p>
+      <p>
+        <a href="https://github.com/DevCape/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=EAF2FF&labelColor=081426" alt="GitHub"></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!-- ============================================================
      SECTION 10 — HERO ACHIEVEMENTS
@@ -158,7 +178,7 @@
 
 <!-- ============================================================
      SECTION 11 — CONTRIBUTION GRAPH
-     ============================================================ -->
+     ============================================================ 
 <p align="center">
   <img src="assets/web-divider.svg" alt="" width="100%">
 </p>
@@ -171,7 +191,7 @@
   <a href="https://github.com/DevCape">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevCape&bg_color=081426&color=E62429&line=FF3340&point=EAF2FF&area=true&area_color=1976D2&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY%20GRAPH" alt="Activity Graph" width="100%">
   </a>
-</p>
+</p> -->
 
 <!-- ============================================================
      SECTION 12 — SPIDER-SENSE NETWORK (socials)
@@ -187,6 +207,7 @@
 <p align="center">
   <a href="www.linkedin.com/in/alberto-capellini-596679346"><img src="https://img.shields.io/badge/LinkedIn-E62429?style=for-the-badge&logo=linkedin&logoColor=EAF2FF&labelColor=081426" alt="LinkedIn"></a>
   <a href="mailto:info.acapellini@gmail.com"><img src="https://img.shields.io/badge/Email-1976D2?style=for-the-badge&logo=gmail&logoColor=EAF2FF&labelColor=081426" alt="Email"></a>
+  <a href="https://dev.to/devcape"><img src="https://img.shields.io/badge/Dev.to-FF3340?style=for-the-badge&logo=dev.to&logoColor=EAF2FF&labelColor=081426" alt="Dev.to"></a>
 </p>
 
 <p align="center"><i>Open to collaborations, freelance work, and building things that make the neighborhood better.</i></p>
@@ -211,10 +232,6 @@
 <!-- Visitor Counter (optional) -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DevCape&color=E62429&style=for-the-badge&label=SPIDER-SENSE+VISITORS&labelColor=081426" alt="Visitor Count">
-</p>
-
-<p align="center">
-  <i>Generated with the <a href="https://github.com/Robibiruk/spiderman-github-readme">Spider-Man GitHub Readme Generator</a> — your friendly neighborhood README builder.</i>
 </p>
 
 <!--
