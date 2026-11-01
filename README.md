@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://github.com/DevCape">
-    <img src="https://readme-typing-svg.demolab.com?font=Impact&weight=900&size=42&duration=3000&pause=1.5&color=E62429&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=CAPE;SWINGING+ON+COMMITS" alt="ALBERTO CAPELLINI" />
+    <img src="https://readme-typing-svg.demolab.com?font=Impact&weight=900&size=42&duration=3000&pause=1.5&color=E62429&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=SWINGING+ON+COMMITS" alt="cape" />
   </a>
 </p>
 
